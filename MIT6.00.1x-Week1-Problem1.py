@@ -5,7 +5,7 @@ Created on Wed Sep 23 12:13:47 2020
 
 @author: Atanas Kozarev
 
-Exam
+Exam Week 1
 Problem 1 
 0.0/10.0 points (graded)
 Assume s is a string of lower case characters.
