@@ -3,7 +3,10 @@
 """
 Created on Thu Sep 24 14:43:09 2020
 
-@author: Atnaas Kozarev
+@author: Atnaas Kozarev - github.com/ultraasi-atanas
+Week 2 MIT 6.00.1x Introduction to Computer Science and Programming Using Python
+
+https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2020a
 """
 
 # Guess the Cube Root of Cube using Bisection search
